@@ -1,0 +1,26 @@
+!DOCTYPE html - was sued to define the document type and the version of HTML being used
+html - is the root element of an HTML document
+head - contains metadata, and links to external resources (CSS, JS) and the title of the doc
+body- contains the content of the webpage, including text, images, and interactive elements
+nav- nav bar for linking to other pages
+ul and li- used to make nav menus with list items
+a- creates hyperlinks for nav betwen different pages
+h1 and h2 - used for headings
+input- for user input, specifically used for the letter guessing
+script - checks the letters to see if they are right
+
+
+CSS PROPERTIES USED
+
+backround color - changes the backround of the page
+color- change the text color to make it easier to read
+text align- centers the text so it looks better
+border- adds borders around thingss like the box on the worlde game
+display- conrols the layout and positions of certain things
+
+
+I used JavaScript to chekc the users input into the game to see if it
+fits the letters that I set it to be, if correct, would turn green, and if
+incorrect would turn red.
+I use dbootstrap to make the nav bar looks better and to style the text and
+other elements on the page.
